@@ -1,0 +1,7 @@
+﻿empno,firstname,lastname,email,sal,dept,mgr
+101,raju,k,test@gmail.com,13000,3,103
+102,rani,b,pogo@gmail.com,11000,1,103
+104,lakshman,sur,lakshman@gmail.com,27000,1,103
+103,amit,ch,amit@gmail.com,35000,2,105
+106,trivikaram,m,love@gmail.com,40000,3,103
+105,chandu,a,rani@gmail.com,37000,2,0
